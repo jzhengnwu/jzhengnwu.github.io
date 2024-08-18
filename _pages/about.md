@@ -16,6 +16,7 @@ redirect_from:
 招生研究生信息
 ======
 学术硕士：计算机科学与技术
+
 专业硕士：软件工程
 
 联系方式(Email): jzheng@nwu.edu.cn
