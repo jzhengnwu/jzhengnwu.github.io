@@ -9,11 +9,16 @@ redirect_from:
 
 博士，副教授/硕士生导师，西北大学“青年学术英才支持计划”入选者。西安电子科技大学综合业务网理论及关键技术国家重点实验室博士毕业，CCF网络与数据通信专委会委员。主持和承担了国家自然科学基金、国家重点研发计划等国家级和省部级项目7项，参与了国家973计划、国家自然科学基金重点项目等多个科研项目。在IEEE TWC(无线网络领域)，TMC(移动计算领域), TCOM(通信领域), INFOCOM（计算机网络领域）, ACL（机器学习领域）, UbiComp（普适计算）, ICC（通信领域）等国际知名学术期刊或会议上发表SCI/EI论文20多篇，授权发明专利10项，申请发明专利30余项。
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+目前研究工作主要集中在无线边缘智能、智能无线网络、自然语言处理、无线分布式机器学习、无线联邦学习、区块链、瑕疵缺陷检测等，目前与新加坡南洋理工大学、香港大学、英国利兹大学等开展广泛密切的合作。
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+担任2017中国通信大会(Chinacom)分会主席,担任2018物联网即服务国际大会(IoTaaS)专题主席,担任2019物联网即服务国际大会(IoTaaS)程序委员会主席,担任2019，2020, 2021 IEEE通信旗舰型会议Globecom程序委员会委员，2024年IEEE 嵌入式和普适计算EUC程序委员会委员, 中国计算机学会会员，IEEE通信学会会员，ACM学会会员。
+
+招生研究生信息
+======
+学术硕士：计算机科学与技术
+专业硕士：软件工程
+
+联系方式(Email): jzheng@nwu.edu.cn
 
 Getting started
 ======
