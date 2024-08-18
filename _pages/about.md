@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Jie Zheng"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+博士，副教授/硕士生导师，西北大学“青年学术英才支持计划”入选者。西安电子科技大学综合业务网理论及关键技术国家重点实验室博士毕业，CCF网络与数据通信专委会委员。主持和承担了国家自然科学基金、国家重点研发计划等国家级和省部级项目7项，参与了国家973计划、国家自然科学基金重点项目等多个科研项目。在IEEE TWC(无线网络领域)，TMC(移动计算领域), TCOM(通信领域), INFOCOM（计算机网络领域）, ACL（机器学习领域）, UbiComp（普适计算）, ICC（通信领域）等国际知名学术期刊或会议上发表SCI/EI论文20多篇，授权发明专利5项，申请发明专利10余项。
 
 A data-driven personal website
 ======
