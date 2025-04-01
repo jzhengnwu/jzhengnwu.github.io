@@ -23,11 +23,6 @@ redirect_from:
 
 Recent Publications
 ======
-1. [Energy-Efficient Resource Allocation in Generative AI-Aided Secure Semantic Mobile Networks](https://github.com/jzhengnwu/jzhengnwu.github.io/blob/master/_publications/Energy-Efficient_Resource_Allocation_in_Generative_AI-Aided_Secure_Semantic_Mobile_Networks.pdf)
-<div class="row">
- <a href="https://github.com/jzhengnwu/jzhengnwu.github.io/blob/master/_publications/Energy-Efficient_Resource_Allocation_in_Generative_AI-Aided_Secure_Semantic_Mobile_Networks.pdf" itemprop="name">Energy-Efficient Resource Allocation in Generative AI-Aided Secure Semantic Mobile Networks</a><br/>	
- </div>
-<span style="color: blue;">Code</span>
 <div class="row">
 		<div class="column">
 			<b>CGO &#39;25</b>
@@ -43,6 +38,9 @@ Recent Publications
   Dataset
 </a>
 </div>
+<div class="row">
+ <a href="https://github.com/jzhengnwu/jzhengnwu.github.io/blob/master/_publications/Energy-Efficient_Resource_Allocation_in_Generative_AI-Aided_Secure_Semantic_Mobile_Networks.pdf" itemprop="name">Energy-Efficient Resource Allocation in Generative AI-Aided Secure Semantic Mobile Networks</a><br/>	
+ </div>
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
