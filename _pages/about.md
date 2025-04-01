@@ -24,10 +24,10 @@ redirect_from:
 Recent Publications
 ======
 <div class="row">
-		<div class="column">
-			<b>IEEE &#39;24</b>
-				</div>
-		<div class="column">
+	<div class="column">
+		<b>IEEE &#39;24</b>
+	</div>
+	<div class="column">
 		<a class="btn btn-primary btn-outline btn-xs" href="https://zwang4.github.io/publications/cgo25.pdf" target="_blank" rel="noopener">
 		  Preprint
 		</a>
@@ -37,6 +37,7 @@ Recent Publications
 		<a class="btn btn-primary btn-outline" href="https://github.com/HuantWang/PROM/" target="_blank" rel="noopener">
 		  Dataset
 		</a>
+	</div>
 </div>
 <div class="row">
  <a href="https://github.com/jzhengnwu/jzhengnwu.github.io/blob/master/_publications/Energy-Efficient_Resource_Allocation_in_Generative_AI-Aided_Secure_Semantic_Mobile_Networks.pdf" itemprop="name">Energy-Efficient Resource Allocation in Generative AI-Aided Secure Semantic Mobile Networks</a><br/>	
