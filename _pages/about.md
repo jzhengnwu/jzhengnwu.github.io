@@ -25,7 +25,6 @@ Recent Publications
 ======
 1. [Energy-Efficient Resource Allocation in Generative AI-Aided Secure Semantic Mobile Networks](https://github.com/jzhengnwu/jzhengnwu.github.io/blob/master/_publications/Energy-Efficient_Resource_Allocation_in_Generative_AI-Aided_Secure_Semantic_Mobile_Networks.pdf)
 <div class="row">
-  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
  <a href="https://github.com/jzhengnwu/jzhengnwu.github.io/blob/master/_publications/Energy-Efficient_Resource_Allocation_in_Generative_AI-Aided_Secure_Semantic_Mobile_Networks.pdf" itemprop="name">Energy-Efficient Resource Allocation in Generative AI-Aided Secure Semantic Mobile Networks</a><br/>	
  </div>
 <span style="color: blue;">Code</span>
