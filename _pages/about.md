@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-博士，c副教授/硕士生导师，西北大学“青年学术英才支持计划”入选者。西安电子科技大学综合业务网理论及关键技术国家重点实验室博士毕业，CCF网络与数据通信专委会委员。主持和承担了国家自然科学基金、国家重点研发计划等国家级和省部级项目7项，参与了国家973计划、国家自然科学基金重点项目等多个科研项目。在IEEE TWC(无线网络领域)，TMC(移动计算领域), TCOM(通信领域), INFOCOM（计算机网络领域）, ACL（机器学习领域）, UbiComp（普适计算）, ICC（通信领域）等国际知名学术期刊或会议上发表SCI/EI论文20多篇，授权发明专利10项，申请发明专利30余项。
+博士，副教授/硕士生导师，西北大学“青年学术英才支持计划”入选者。西安电子科技大学综合业务网理论及关键技术国家重点实验室博士毕业，CCF网络与数据通信专委会委员。主持和承担了国家自然科学基金、国家重点研发计划等国家级和省部级项目7项，参与了国家973计划、国家自然科学基金重点项目等多个科研项目。在IEEE TWC(无线网络领域)，TMC(移动计算领域), TCOM(通信领域), INFOCOM（计算机网络领域）, ACL（机器学习领域）, UbiComp（普适计算）, ICC（通信领域）等国际知名学术期刊或会议上发表SCI/EI论文20多篇，授权发明专利10项，申请发明专利30余项。
 
 目前研究工作主要集中在无线边缘智能、智能无线网络、自然语言处理、无线分布式机器学习、无线联邦学习、区块链、瑕疵缺陷检测等，目前与新加坡南洋理工大学、香港大学、英国利兹大学等开展广泛密切的合作。
 
@@ -21,7 +21,7 @@ redirect_from:
 
 联系方式(Email): jzheng@nwu.edu.cn
 
-Getting started
+Recent Publications
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
