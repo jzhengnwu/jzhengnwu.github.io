@@ -40,7 +40,7 @@ Recent Publications
 	</div>
 </div>
 <div class="row">
- <a href="https://jzhengnwu.github.io/blob/master/_publications/Energy-Efficient_Resource_Allocation_in_Generative_AI-Aided_Secure_Semantic_Mobile_Networks.pdf" itemprop="name">Energy-Efficient Resource Allocation in Generative AI-Aided Secure Semantic Mobile Networks</a><br/>	
+ <a href="https://jzhengnwu.github.io/_publications/Energy-Efficient_Resource_Allocation_in_Generative_AI-Aided_Secure_Semantic_Mobile_Networks.pdf" itemprop="name">Energy-Efficient Resource Allocation in Generative AI-Aided Secure Semantic Mobile Networks</a><br/>	
  </div>
 
 Site-wide configuration
