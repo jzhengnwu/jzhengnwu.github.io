@@ -29,6 +29,12 @@
   .icon {
     margin-right: 0.5em;
   }
+  .btn-primary.btn-outline {
+  color: #0095eb !important;
+  border-color: #0095eb !important;
+}
+
+
 
   .icon + .hidden {
     margin-left: -0.5em; /* override for hidden text*/
