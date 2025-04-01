@@ -25,7 +25,7 @@ Recent Publications
 ======
 <div class="row">
 		<div class="column">
-			<b>CGO &#39;25</b>
+			<b>IEEE &#39;24</b>
 				</div>
 		<div class="column">
 <a class="btn btn-primary btn-outline btn-xs" href="https://zwang4.github.io/publications/cgo25.pdf" target="_blank" rel="noopener">
@@ -34,7 +34,7 @@ Recent Publications
 <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/HuantWang/PROM/" target="_blank" rel="noopener">
   Code
 </a>
-<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/HuantWang/PROM/" target="_blank" rel="noopener">
+<a class="btn btn-primary btn-outline" href="https://github.com/HuantWang/PROM/" target="_blank" rel="noopener">
   Dataset
 </a>
 </div>
