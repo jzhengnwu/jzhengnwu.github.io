@@ -26,8 +26,8 @@ Recent Publications
 <div class="row">
 	<div class="column">
 		<b>IEEE &#39;24</b>
-	</div>
-	<div class="column">
+<!-- 	</div>
+	<div class="column"> -->
 		<a class="btn btn-primary btn-outline btn-xs" href="https://zwang4.github.io/publications/cgo25.pdf" target="_blank" rel="noopener">
 		  Preprint
 		</a>
